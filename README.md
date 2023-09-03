@@ -3,4 +3,4 @@ This is my first Git repository
 <br>
 AUTHOR - Soumik Bose
 <br>
-!st Project - Upload Files to MySQL DB using spring boot (JSP included as UI)
+1st Project - Upload Files to MySQL DB using spring boot (JSP included as UI)
