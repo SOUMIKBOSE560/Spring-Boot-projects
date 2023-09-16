@@ -120,18 +120,7 @@ public class uploadService {
 		
 
 		StorageOptions storageoptions = StorageOptions.newBuilder().setCredentials(googlecredentials).setProjectId("save-product").build();
-		    // The ID of your GCP project
-		    // String projectId = "your-project-id";
-
-		    // The ID of your GCS bucket
-		    // String bucketName = "your-unique-bucket-name";
-
-		    // The ID of your GCS object
-		    // String objectName = "your-object-name";
-
-		    // The path to which the file should be downloaded
-		    // String destFilePath = "/local/path/to/file.txt";
-
+		 
 		    Storage storage = storageoptions.getService();
 		    
 		 // The local file path where you want to save the downloaded object
