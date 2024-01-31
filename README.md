@@ -1,5 +1,5 @@
 # Spring-Boot-Projects 
-This is my first Git repository
+A collection of Spring Boot projects
 <br>
 AUTHOR - Soumik Bose
 <br>
